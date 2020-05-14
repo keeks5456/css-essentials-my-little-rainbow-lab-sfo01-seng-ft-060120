@@ -33,3 +33,7 @@ div {
 #violet { /* this selects any elements with the red id */
   border-top-color: violet;
 }
+
+#indigo { /* this selects any elements with the red id */
+  border-top-color: indigo;
+}

@@ -35,5 +35,5 @@ div {
 }
 
 #indigo { /* this selects any elements with the red id */
-  border-bottom-color: indigo;
+  border-top-color: indigo;
 }
